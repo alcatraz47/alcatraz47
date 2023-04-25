@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on NLP based projects
 - 📫 How to reach me:  
 - <code><img height="16" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></code>: mahmudulhaquearfan@gmail.com. <br /> 
-LinkedIn: https://www.linkedin.com/in/md-mahmudul-haque-8a5484b2
+- <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"></code>: https://www.linkedin.com/in/md-mahmudul-haque-8a5484b2
 
 **My Preferred Language, Frameworks, and Tools:**  
 
