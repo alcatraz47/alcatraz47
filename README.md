@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science techniques
 - 💞️ I’m looking to collaborate on NLP based projects
 - 📫 How to reach me:  
-Mail: mahmudulhaquearfan@gmail.com. 
+Mail: mahmudulhaquearfan@gmail.com. <br /> 
 LinkedIn: https://www.linkedin.com/in/md-mahmudul-haque-8a5484b2
 
 <!---
