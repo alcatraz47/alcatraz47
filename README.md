@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @alcatraz47
 - 👀 I’m interested in Data Science/Machine Learning/Artificial Intelligence/Software Engineering
-- 🌱 I’m currently learning Data Science techniques
+- 🌱 I’m currently learning Data Science techniques on various analysis
+- 🕗 I’m also contributing to learn NLP and NLU techniques and applying DS knowledge here 
 - 💞️ I’m looking to collaborate on NLP based projects
 - 📫 How to reach me:  
 - <code><img height="16" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"></code>: mahmudulhaquearfan@gmail.com <br /> 
