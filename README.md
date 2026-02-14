@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I build practical AI systems with a focus on NLP, model deployment, and measurable business impact.
+  I build practical AI systems focused on LLMs, NLP, computer vision, deployment, maintenance, and measurable business impact.
 </p>
 
 ---
