@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Md. Mahmudul Haque 👋</h1>
 <p align="center">
-  <em>Data Scientist • Machine Learning Engineer • AI Enthusiast</em>
+  <em>Data Scientist • Machine Learning Engineer • AI Engineer</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## 🚀 About Me
 - 🔭 I’m focused on **Data Science, Machine Learning, and Artificial Intelligence**.
 - 🌱 Currently deepening my work in **advanced data analysis and production ML workflows**.
-- 🧠 Exploring **NLP/NLU systems** and applying research to real-world use cases.
+- 🧠 I am practicing and developing actively in **NLP/NLU systems, Computer Vision, and Vision-Language Models (VLMs)**, applying research to real-world use cases.
 - 🤝 Open to collaboration on **NLP-driven products and intelligent automation projects**.
 
 ## 🧰 Core Stack
@@ -26,6 +26,8 @@
   <img alt="Pandas" height="24" src="https://pandas.pydata.org/static/img/pandas_mark.svg" />
   <img alt="Scikit-Learn" height="24" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
   <img alt="spaCy" height="24" src="https://upload.wikimedia.org/wikipedia/commons/8/88/SpaCy_logo.svg" />
+  <img alt="OpenCV" height="24" src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" />
+  <img alt="Hugging Face (VLM)" height="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img alt="PostgreSQL" height="24" src="https://www.postgresql.org/media/img/about/press/elephant.png" />
   <img alt="Docker" height="24" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" />
   <img alt="AWS" height="24" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
@@ -33,20 +35,20 @@
 </p>
 
 <p>
-  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-  <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-4B5563?style=flat-square&logo=robotframework&logoColor=white" />
-  <img alt="AI Engineering" src="https://img.shields.io/badge/AI_Engineering-0EA5E9?style=flat-square&logo=artificialintelligence&logoColor=white" />
-  <img alt="LLM Training & Fine-Tuning" src="https://img.shields.io/badge/LLM_Training_%26_Fine--Tuning-FFCC4D?style=flat-square&logo=huggingface&logoColor=black" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97706?style=flat-square&logo=anthropic&logoColor=white" />
-  <img alt="ChatGPT Codex" src="https://img.shields.io/badge/ChatGPT_Codex-10A37F?style=flat-square&logo=openai&logoColor=white" />
-  <img alt="Local LLM" src="https://img.shields.io/badge/Local_LLM-111827?style=flat-square&logo=ollama&logoColor=white" />
-  <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  <img alt="Power BI" height="24" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+  <img alt="LangChain (Agentic AI)" height="24" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
+  <img alt="MLflow (AI Engineering)" height="24" src="https://cdn.simpleicons.org/mlflow/0194E2" />
+  <img alt="Hugging Face (LLM Training & Fine-Tuning)" height="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
+  <img alt="Anthropic (Claude Code)" height="24" src="https://cdn.simpleicons.org/anthropic/191919" />
+  <img alt="OpenAI (ChatGPT Codex)" height="24" src="https://cdn.simpleicons.org/openai/412991" />
+  <img alt="Ollama (Local LLM)" height="24" src="https://cdn.simpleicons.org/ollama/000000" />
+  <img alt="Celery" height="24" src="https://cdn.simpleicons.org/celery/37814A" />
+  <img alt="Redis" height="24" src="https://cdn.simpleicons.org/redis/DC382D" />
+  <img alt="Cloudflare" height="24" src="https://cdn.simpleicons.org/cloudflare/F38020" />
 </p>
 
 ## 📌 What You’ll Find Here
-- End-to-end ML and NLP experiments.
+- End-to-end DS/ML/AI experiments using both classical ML methods and agentic AI approaches.
 - Model training notebooks and reproducible pipelines.
 - Deployment-oriented APIs and backend integrations.
 - Continuous learning through practical, documented projects.
