@@ -40,7 +40,7 @@
   <img alt="MLflow (AI Engineering)" height="24" src="https://cdn.simpleicons.org/mlflow/0194E2" />
   <img alt="Hugging Face (LLM Training & Fine-Tuning)" height="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img alt="Anthropic (Claude Code)" height="24" src="https://cdn.simpleicons.org/anthropic/191919" />
-  <img alt="OpenAI (ChatGPT Codex)" height="24" src="https://cdn.simpleicons.org/openai/412991" />
+  <img alt="OpenAI (ChatGPT Codex)" height="24" src="./assets/openai.svg" />
   <img alt="Ollama (Local LLM)" height="24" src="https://cdn.simpleicons.org/ollama/000000" />
   <img alt="Celery" height="24" src="https://cdn.simpleicons.org/celery/37814A" />
   <img alt="Redis" height="24" src="https://cdn.simpleicons.org/redis/DC382D" />
