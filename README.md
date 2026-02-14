@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  I build practical AI systems with a focus on NLP, model deployment, and measurable business impact.
+  I build practical AI systems focused on LLMs, NLP, computer vision, deployment, maintenance, and measurable business impact.
 </p>
 
 ---
@@ -35,12 +35,12 @@
 </p>
 
 <p>
-  <img alt="Power BI" height="24" src="https://cdn.simpleicons.org/powerbi/F2C811" />
+  <img alt="Power BI" height="24" src="./assets/power-bi.svg" />
   <img alt="LangChain (Agentic AI)" height="24" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
   <img alt="MLflow (AI Engineering)" height="24" src="https://cdn.simpleicons.org/mlflow/0194E2" />
   <img alt="Hugging Face (LLM Training & Fine-Tuning)" height="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
   <img alt="Anthropic (Claude Code)" height="24" src="https://cdn.simpleicons.org/anthropic/191919" />
-  <img alt="OpenAI (ChatGPT Codex)" height="24" src="https://cdn.simpleicons.org/openai/412991" />
+  <img alt="OpenAI (ChatGPT Codex)" height="24" src="./assets/openai.svg" />
   <img alt="Ollama (Local LLM)" height="24" src="https://cdn.simpleicons.org/ollama/000000" />
   <img alt="Celery" height="24" src="https://cdn.simpleicons.org/celery/37814A" />
   <img alt="Redis" height="24" src="https://cdn.simpleicons.org/redis/DC382D" />
