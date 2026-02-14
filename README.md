@@ -35,7 +35,7 @@
 </p>
 
 <p>
-  <img alt="Power BI" height="24" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
+  <img alt="Power BI" height="24" src="./assets/power-bi.svg" />
   <img alt="LangChain (Agentic AI)" height="24" src="https://cdn.simpleicons.org/langchain/1C3C3C" />
   <img alt="MLflow (AI Engineering)" height="24" src="https://cdn.simpleicons.org/mlflow/0194E2" />
   <img alt="Hugging Face (LLM Training & Fine-Tuning)" height="24" src="https://cdn.simpleicons.org/huggingface/FFD21E" />
